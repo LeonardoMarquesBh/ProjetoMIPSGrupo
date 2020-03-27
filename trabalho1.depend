@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1585226557 source:d:\pucmg\2020\ac\trabalho1\trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"MyBB.h"
+	<locale.h>
+
+1585267178 d:\pucmg\2020\ac\trabalho1\trabalho1\mybb.h
+
+1585266315 source:d:\pucmg\2020\ac\trabalho1\trabalho1\mybb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1585016352 d:\pucmg\2020\ac\trabalho1\trabalho1\mybb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
